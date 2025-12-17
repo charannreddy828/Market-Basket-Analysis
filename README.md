@@ -1,7 +1,4 @@
-# Market-Basket-Analysis
-Market Basket Analysis identifies patterns in customer purchasing behavior by discovering associations between frequently bought items. Using Association Rule Mining and the Apriori algorithm in Python, this project extracts insights from retail transaction data to support cross-selling, product placement, and recommendation systems.
 # Market Basket Analysis using Python
-
 ## Project Overview
 This project performs "Market Basket Analysis (MBA)" on a retail dataset to identify frequent itemsets and discover strong association rules between products. By applying the "Apriori Algorithm", we can determine which items are frequently bought together (e.g., "If a customer buys Bread, they are 80% likely to buy Milk").
 
